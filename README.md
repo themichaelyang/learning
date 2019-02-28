@@ -30,6 +30,7 @@ http://norvig.com/21-days.html
 - [ ] [The Essence of Linear Algebra (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [ ] [CSCI 1430: Introduction to Computer Vision (Brown)](https://cs.brown.edu/courses/csci1430/)
 - [ ] [fast.ai (USF)](https://www.fast.ai/)
+- [ ] [STA561: Probabilistic Machine Learning (Duke)](https://www.cs.princeton.edu/~bee/courses/sta561.html)
 
 ## Tutorials, Guides, Books
 - [ ] [WebGL Fundamentals](https://webglfundamentals.org/)
