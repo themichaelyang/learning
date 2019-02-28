@@ -42,6 +42,7 @@ http://norvig.com/21-days.html
 - [ ] The Little Schemer (Friedman)
 - [ ] The Structure and Interpretation of Computer Programs (Sussman)
   - See also: HtDP
+  - [6.001 (MIT)](https://web.mit.edu/alexmv/6.037/)
 - [ ] [Scratchapixel: Computer Graphics from Scratch](https://www.scratchapixel.com/)
 - [ ] [Introduction to Computer Graphics (Eck)](http://math.hws.edu/graphicsbook/index.html)
 - [ ] [Misc. Solution Manuals (Weatherwax)](https://waxworksmath.com/solutions.aspx)
