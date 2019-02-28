@@ -37,16 +37,19 @@ http://norvig.com/21-days.html
 - [ ] [Beautiful Racket (Butterick)](https://beautifulracket.com/)
 - [ ] [Crafting Interpreters](http://www.craftinginterpreters.com/)
 - [ ] [Nature of Code (Shiffman)](https://natureofcode.com/)
-- [ ] [So You Want To Learn Physics... (Fowler)](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
-- [ ] [What every computer science major should know (Might)](http://matt.might.net/articles/what-cs-majors-should-know/)
 - [ ] The Little Schemer (Friedman)
 - [ ] The Structure and Interpretation of Computer Programs (Sussman)
   - See also: HtDP
 - [ ] [Scratchapixel: Computer Graphics from Scratch](https://www.scratchapixel.com/)
 - [ ] [Introduction to Computer Graphics (Eck)](http://math.hws.edu/graphicsbook/index.html)
+- [ ] [Misc. Solution Manuals (Weatherwax)](https://waxworksmath.com/solutions.aspx)
+- [ ] Calculus, Spivak
 
 ## Readings
 - [ ] [Wave Function Collapse Algorithm](https://github.com/mxgmn/WaveFunctionCollapse)
+- [ ] [So You Want To Learn Physics... (Fowler)](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
+- [ ] [What every computer science major should know (Might)](http://matt.might.net/articles/what-cs-majors-should-know/)
+- [ ] [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib)
 
 ## Resources
 - [Christopher Olah](https://colah.github.io/)
