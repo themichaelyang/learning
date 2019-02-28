@@ -29,6 +29,7 @@ http://norvig.com/21-days.html
 - [ ] [Linear Algebra (MIT)](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/)
 - [ ] [The Essence of Linear Algebra (3Blue1Brown)](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [ ] [CSCI 1430: Introduction to Computer Vision (Brown)](https://cs.brown.edu/courses/csci1430/)
+- [ ] [fast.ai (USF)](https://www.fast.ai/)
 
 ## Tutorials, Guides, Books
 - [ ] [WebGL Fundamentals](https://webglfundamentals.org/)
