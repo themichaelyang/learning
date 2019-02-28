@@ -18,7 +18,7 @@ http://norvig.com/21-days.html
 - [ ] [CSC 321: Intro to Neural Networks and Machine Learning (UofT)](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
 - [ ] [Data 8: The Foundations of Data Science (UCB)](http://data8.org/)
 - [ ] [Foundations of Machine Learning (Bloomberg/NYU)](https://bloomberg.github.io/foml/#home)
-- [ ] [MATH 245A: Real Analysis (UCB)](http://www.math.ucla.edu/~tao/245a.1.10f/)
+- [ ] [Math 131AH: Honors Analysis (UCB)](http://www.math.ucla.edu/~tao/resource/general/131ah.1.03w/)
 - [ ] [Science & Cooking: From Haute Cuisine to Soft Matter Science, Chemistry (HarvardX)](https://www.edx.org/course/science-and-cooking-chemistry)
   - [ ] [Science & Cooking: From Haute Cuisine to Soft Matter Science, Physics (HarvardX)](https://www.edx.org/course/science-cooking-from-haute-cuisine-to-soft-matter-science-physics)
 - [ ] [COMS 4113: Distributed Systems (Columbia)](https://columbia.github.io/ds1-class/)
