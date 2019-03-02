@@ -31,6 +31,7 @@ http://norvig.com/21-days.html
 - [ ] [CSCI 1430: Introduction to Computer Vision (Brown)](https://cs.brown.edu/courses/csci1430/)
 - [ ] [fast.ai (USF)](https://www.fast.ai/)
 - [ ] [STA561: Probabilistic Machine Learning (Duke)](https://www.cs.princeton.edu/~bee/courses/sta561.html)
+- [ ] [CS4780: Machine Learning for Intelligent Systems (Cornell)](http://www.cs.cornell.edu/courses/cs4780)
 
 ## Tutorials, Guides, Books
 - [ ] [WebGL Fundamentals](https://webglfundamentals.org/)
