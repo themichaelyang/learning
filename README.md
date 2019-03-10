@@ -34,6 +34,7 @@ http://norvig.com/21-days.html
 - [ ] [CS4780: Machine Learning for Intelligent Systems (Cornell)](http://www.cs.cornell.edu/courses/cs4780)
 - [ ] [
 Statistical Machine Learning (UMass)](https://people.cs.umass.edu/~domke/courses/sml2011/)
+- [ ] [Computer Graphics (CMU)](http://15462.courses.cs.cmu.edu/spring2018/)
 
 ## Tutorials, Guides, Books
 - [ ] [WebGL Fundamentals](https://webglfundamentals.org/)
