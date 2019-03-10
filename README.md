@@ -64,3 +64,4 @@ Statistical Machine Learning (UMass)](https://people.cs.umass.edu/~domke/courses
 - [Hardmaru / Otoro](http://blog.otoro.net/)
 - [Bret Victor](http://worrydream.com/)
 - [Coding Train Videos (Daniel Shiffman)](https://www.youtube.com/user/shiffman)
+- [Matt Might](http://matt.might.net/)
