@@ -51,6 +51,7 @@ Statistical Machine Learning (UMass)](https://people.cs.umass.edu/~domke/courses
 - [ ] [Introduction to Computer Graphics (Eck)](http://math.hws.edu/graphicsbook/index.html)
 - [ ] [Misc. Solution Manuals (Weatherwax)](https://waxworksmath.com/solutions.aspx)
 - [ ] Calculus, Spivak
+- [ ] [Learn You a Haskell for Great Good (Lipovaca)](http://learnyouahaskell.com/)
 
 ## Readings
 - [ ] [Wave Function Collapse Algorithm](https://github.com/mxgmn/WaveFunctionCollapse)
