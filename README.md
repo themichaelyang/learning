@@ -52,6 +52,7 @@ Statistical Machine Learning (UMass)](https://people.cs.umass.edu/~domke/courses
 - [ ] [Misc. Solution Manuals (Weatherwax)](https://waxworksmath.com/solutions.aspx)
 - [ ] Calculus, Spivak
 - [ ] [Learn You a Haskell for Great Good (Lipovaca)](http://learnyouahaskell.com/)
+- [ ] [Learning Scala in 2018 (Delange)](http://julien.gunnm.org/scala/programming/2018/06/12/how-to-learn-scala-in-2018/)
 
 ## Readings
 - [ ] [Wave Function Collapse Algorithm](https://github.com/mxgmn/WaveFunctionCollapse)
