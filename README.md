@@ -35,6 +35,7 @@ http://norvig.com/21-days.html
 - [ ] [
 Statistical Machine Learning (UMass)](https://people.cs.umass.edu/~domke/courses/sml2011/)
 - [ ] [Computer Graphics (CMU)](http://15462.courses.cs.cmu.edu/spring2018/)
+- [ ] [Intro to Physical Computing (NYU)](https://itp.nyu.edu/physcomp/)
 
 ## Tutorials, Guides, Books
 - [ ] [WebGL Fundamentals](https://webglfundamentals.org/)
