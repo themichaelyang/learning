@@ -61,6 +61,7 @@ Statistical Machine Learning (UMass)](https://people.cs.umass.edu/~domke/courses
 - [ ] [So You Want To Learn Physics... (Fowler)](https://www.susanjfowler.com/blog/2016/8/13/so-you-want-to-learn-physics)
 - [ ] [What every computer science major should know (Might)](http://matt.might.net/articles/what-cs-majors-should-know/)
 - [ ] [Chicago undergraduate mathematics bibliography](https://github.com/ystael/chicago-ug-math-bib)
+- [ ] [Seam Carving (Wikipedia)](https://en.wikipedia.org/wiki/Seam_carving)
 
 ## Resources
 - [Christopher Olah](https://colah.github.io/)
