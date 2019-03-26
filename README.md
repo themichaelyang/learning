@@ -55,6 +55,7 @@ Statistical Machine Learning (UMass)](https://people.cs.umass.edu/~domke/courses
 - [ ] [Learn You a Haskell for Great Good (Lipovaca)](http://learnyouahaskell.com/)
 - [ ] [Learning Scala in 2018 (Delange)](http://julien.gunnm.org/scala/programming/2018/06/12/how-to-learn-scala-in-2018/)
 - [ ] [A Course in Machine Learning (Daume)](http://ciml.info/)
+- [ ] [Destroy All Software Screencasts (Bernhardt)](https://www.destroyallsoftware.com/screencasts)
 
 ## Readings
 - [ ] [Wave Function Collapse Algorithm](https://github.com/mxgmn/WaveFunctionCollapse)
